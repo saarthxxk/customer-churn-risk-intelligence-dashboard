@@ -1,4 +1,4 @@
-![Executive Dashboard](Dashboard Screenshots/Engagement_Analysis.png)
+![Executive Dashboard](Dashboard_Screenshots/Engagement_Analysis.png)
 # Financial Risk & Retention Intelligence Dashboard
 
 ## Project Overview
