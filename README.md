@@ -1,3 +1,4 @@
+![Executive Dashboard](Dashboard_Screenshots/Executive_Dashboard.png)
 # Financial Risk & Retention Intelligence Dashboard
 
 ## Project Overview
