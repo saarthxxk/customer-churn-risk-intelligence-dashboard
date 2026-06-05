@@ -1,4 +1,4 @@
-![Executive Dashboard](customer_churn_risk_intelligence_dashboard/Dadhboard_Screenshots/Engagement_Analysis.png)
+![Executive Dashboard](Dashboard Screenshots/Engagement_Analysis.png)
 # Financial Risk & Retention Intelligence Dashboard
 
 ## Project Overview
